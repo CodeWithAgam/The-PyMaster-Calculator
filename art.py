@@ -1,9 +1,4 @@
-# The PyMaster Calculator
-
-A mini Calculator built in Python to follow out Calculations such as Add, Subtract, Multiply & Divide.
-
-## Example Run:
-```
+logo = """
  _____________________
 |  _________________  |
 | | PyMaster     0. | |  .----------------.  .----------------.  .----------------.  .----------------. 
@@ -18,9 +13,4 @@ A mini Calculator built in Python to follow out Calculations such as Add, Subtra
 | | . | 0 | = | | / | | | '--------------' || '--------------' || '--------------' || '--------------' |
 | |___|___|___| |___| |  '----------------'  '----------------'  '----------------'  '----------------' 
 |_____________________|
-
-Enter the first number:
-```
-
-## This project is licensed under the Apache License, Version 2.0. 
-### You're open to make changes and contribute to the project, please make a pull request!
+"""
