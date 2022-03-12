@@ -21,6 +21,7 @@ A mini Calculator built in Python to follow out Calculations such as Add, Subtra
 
 Enter the first number:
 ```
+## License:
 
-## This project is licensed under the Apache License, Version 2.0. 
+### This project is licensed under the Apache License, Version 2.0. 
 ### You're open to make changes and contribute to the project, please make a pull request!
