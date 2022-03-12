@@ -6,7 +6,8 @@
 # Linkdin: Agamdeep Singh
 
 from os import system, name
-from art import logo
+from assets.art import logo
+
 
 # Functions to carry out the calculations
 def add(n1, n2):
