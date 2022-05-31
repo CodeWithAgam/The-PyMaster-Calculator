@@ -1,0 +1,1 @@
+responses = ["Welcome to the PyMaster Calculator", "My name is ZoBo", "Thanks for using PyMaster Calculator"]
